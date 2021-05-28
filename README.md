@@ -1,7 +1,7 @@
 # Platmormer-Final
 platformer for final exam
 
-## name: bm-go
+## name: BM-GO
 
 ## start screen:
 ![ss3](https://user-images.githubusercontent.com/84975274/120044053-140be900-bfdb-11eb-98ff-a36b066077f9.PNG)
